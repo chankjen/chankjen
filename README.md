@@ -1,9 +1,10 @@
+https://techbriefly.com/wp-content/uploads/2023/06/Best-AI-3D-model-generators.jpg
 - 👋 Hi, I’m **@chankjen**  
   *AI Solutions Engineer | Bridging imagination and innovation with code*  
 
 - 👀 **I’m interested in**...  
   🤖 **AI/ML magic**: Building intelligent systems that solve real-world problems—think NLP chatbots, computer vision pipelines, and predictive analytics.  
-  ☁️ **Scalable cloud solutions**: Architecting robust AI deployments on AWS, GCP, and Azure.  
+  ☁️ **Scalable cloud solutions**: Architecting robust AI deployments on AWS, GCP, and Azure.   
   🔍 **Ethical AI**: Ensuring fairness, transparency, and accountability in every model I design.  
   🌍 **Tech for good**: Leveraging AI to tackle climate change, healthcare disparities, and education gaps.  
 
