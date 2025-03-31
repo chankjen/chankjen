@@ -1,4 +1,5 @@
-https://techbriefly.com/wp-content/uploads/2023/06/Best-AI-3D-model-generators.jpg![image](https://github.com/user-attachments/assets/badc6881-a18a-46c5-9927-3fcec405b40c)
+![image](https://github.com/user-attachments/assets/22b46cd2-fcb3-427f-b401-eec7b6f094f0)
+
 
 - 👋 Hi, I’m **@chankjen**  
   *AI Solutions Engineer | Bridging imagination and innovation with code*  
