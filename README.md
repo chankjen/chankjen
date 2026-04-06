@@ -1,38 +1,46 @@
 ![image](https://github.com/user-attachments/assets/22b46cd2-fcb3-427f-b401-eec7b6f094f0)
 
 
-- 👋 Hi, I’m **@chankjen**  
-  *AI Solutions Engineer | Bridging imagination and innovation with code*  
+# 👋 Hi, I’m Chakin Kim
+*AI Solutions Engineer | Bridging imagination and innovation with code*  
 
-- 👀 **I’m interested in**...  
-  🤖 **AI/ML magic**: Building intelligent systems that solve real-world problems—think NLP chatbots, computer vision pipelines, and predictive analytics.  
-  ☁️ **Scalable cloud solutions**: Architecting robust AI deployments on AWS, GCP, and Azure.   
-  🔍 **Ethical AI**: Ensuring fairness, transparency, and accountability in every model I design.  
-  🌍 **Tech for good**: Leveraging AI to tackle climate change, healthcare disparities, and education gaps.  
+---
 
-- 🌱 **I’m currently learning**...  
-  🧠 **Generative AI**: Experimenting with GPT-4, Stable Diffusion, and DALL-E to create art, poetry, and synthetic data.  
-  ⚡ **Reinforcement Learning**: Teaching agents to master games, optimize logistics, and even compose music.  
-  🛠️ **MLOps mastery**: Streamlining workflows with MLflow, Kubeflow, and edge AI for IoT devices.  
+## 🔮 Interests
+🤖 AI/ML Magic • ☁️ Cloud Scaling • 🔍 Ethical AI • 🌍 Tech for Good  
 
-- 💞️ **I’m looking to collaborate on**...  
-  🚀 **Open-source AI projects**: Let’s democratize cutting-edge tools! Bonus points if it involves Hugging Face, LangChain, or LlamaIndex.  
-  🌱 **Impactful startups**: Passionate teams working on sustainability, mental health tech, or personalized education.  
-  🤖 **Creative AI experiments**: Think AI-generated podcasts, robotic art installations, or AI-augmented storytelling.  
+---
 
-- 📫 **How to reach me**...  
-  📧 **Email**: [hello@chakin.io](charles@powerlearnprojectafrica.org)  
-  💼 **LinkedIn**: [linkedin.com/in/chankjen](www.linkedin.com/in/chakin-kim-4a965056)  
-  🐦 **Twitter/X**: [@cnkchakin](https://x.com/cnkchakin) (I post AI memes and hot takes on AGI)  
+## 🌱 Learning
+🧠 Generative AI • ⚡ Reinforcement Learning • 🛠️ MLOps Mastery  
 
-- 😄 **Pronouns**: They/them or "Hey AI Wizard" ✨  
+---
 
-- ⚡ **Fun fact**: I once trained a neural net to write haikus… and it accidentally composed a love letter to my coffee machine. ☕❤️  
+## 💞️ Collaboration
+🚀 Open Source AI • 🌱 Impactful Startups • 🎨 Creative AI Experiments  
 
----  
-**Let’s build the future—one ethical, awe-inspiring algorithm at a time!** 🚀
+---
 
-<!---
-chankjen/chankjen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 Reach Me
+📧 [hello@chakin.io](mailto:charles@powerlearnprojectafrica.org)  
+💼 [LinkedIn](https://www.linkedin.com/in/chakin-kim-4a965056)  
+🐦 [Twitter/X](https://x.com/cnkchakin)  
+
+---
+
+## 😄 Pronouns
+They/them or **"Hey AI Wizard"** ✨  
+
+---
+
+## ⚡ Fun Fact
+I trained a neural net to write haikus… it fell in love with my coffee machine ☕❤️  
+
+---
+
+## 🛠️ Tech Stack Badges
+![Python](i31) ![TensorFlow](i2) ![AWS](i149) ![Azure](i178) ![GCP](i207) ![LangChain](i89) ![Hugging Face](i119)  
+
+---
+
+## 🎉 Animated Vibes
