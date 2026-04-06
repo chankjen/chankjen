@@ -11,7 +11,7 @@
 
 ---
 
-## 🌱 Learning
+## 🌱 Mastery
 🧠 Generative AI • ⚡ Reinforcement Learning • 🛠️ MLOps Mastery  
 
 ---
